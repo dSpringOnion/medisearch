@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@elastic/app-search-node": "^8.3.2",
     "@elastic/react-search-ui": "^1.24.2",
     "@elastic/react-search-ui-views": "^1.24.2",
     "@elastic/search-ui": "^1.24.2",
+    "@elastic/search-ui-app-search-connector": "^1.24.1",
+    "dotenv": "^17.2.3",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
